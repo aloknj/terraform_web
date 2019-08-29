@@ -1,0 +1,4 @@
+modules/infrastructure/.terraform/
+webserver/.terraform/
+webserver/terraform.tfstate
+webserver/terraform.tfstate.backup
